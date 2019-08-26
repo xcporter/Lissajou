@@ -3,12 +3,12 @@ Puredata patch abstraction for visualizing waveforms and chords as 3d figures. *
 
 To engage visual render:
 
-click create button
+    1. click create button
 
-toggle render
+    2. toggle render
 
-enter some rgb values
+    3. enter some rgb values
 
-specify a length and width for the rendered segment
+    4. specify a length and width for the rendered segment
 
-length should be a relatively high value
+    5. length should be a relatively high value
